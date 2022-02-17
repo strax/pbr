@@ -1,0 +1,6 @@
+[submodule "openexr/openexr-images"]
+	path = openexr/openexr-images
+	url = https://github.com/AcademySoftwareFoundation/openexr-images.git
+[submodule "mimalloc-sys/mimalloc"]
+	path = mimalloc-sys/mimalloc
+	url = https://github.com/microsoft/mimalloc.git
